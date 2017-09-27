@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo",
+  "homepage": "https://github.com/conorc470/box-model",
+  "authors": [
+    "Conor Clarke <conorc470@gmail.com>"
+  ],
+  "description": "To do list project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
